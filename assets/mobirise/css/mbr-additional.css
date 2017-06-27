@@ -411,3 +411,11 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
+#msg-box8-2 .mbr-section-title,
+#msg-box8-2 p {
+  color: #fff;
+}
+#msg-box8-4 .mbr-section-title,
+#msg-box8-4 p {
+  color: #fff;
+}
