@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Hanks Place Wireless Confirmation",
-    "currentPage": "lunchdinner.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -44,11 +44,11 @@
           "_anchor": "header1-0",
           "_params": {
             "parallax": true,
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "showArrow": false,
             "bgImage": "@PROJECT_PATH@/assets/images/junelingrd-2000x1125.jpg",
-            "bgColor": "#a07e49",
-            "bgColorRadio": false,
+            "bgColor": "#2969b0",
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -88,10 +88,10 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "parallax": true,
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/junelingrd-2000x1125.jpg",
-            "bgColor": "#F2F2F2",
-            "bgColorRadio": false,
+            "bgColor": "#2969b0",
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -215,10 +215,10 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "parallax": true,
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/junelingrd-2000x1125.jpg",
-            "bgColor": "#F2F2F2",
-            "bgColorRadio": false,
+            "bgColor": "#2969b0",
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -243,7 +243,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#ffffff"
           },
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"MENUsel.html\" data-toolbar=\"-mbrBtnMove\">BACK TO MENU SELECTION</a> "
         },
@@ -325,11 +325,11 @@
           "_anchor": "header1-6",
           "_params": {
             "parallax": true,
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "showArrow": false,
             "bgImage": "@PROJECT_PATH@/assets/images/junelingrd-2000x1125.jpg",
-            "bgColor": "#a07e49",
-            "bgColorRadio": false,
+            "bgColor": "#2969b0",
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
